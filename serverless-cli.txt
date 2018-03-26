@@ -21,6 +21,3 @@ Generate a Boiler Plate Code for our NodeJS API:
 =====================================================
 c:\API> sls create --template aws-nodejs
 
-71a01dba-3352-46ef-b1f8-3121d401d013
-AKIAJSIE2QEQRBT47ZEQ
-97FUeZEoeNh4wAGDy+yK8TtFsduMoY3WxjkGu5i+
